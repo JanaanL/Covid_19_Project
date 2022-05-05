@@ -23,8 +23,8 @@ To run the hidden markov model for the labelled metrics run the following comman
 
 To run the markov model and baseline calculations for the numeric metrics run the following command:
 
-`ptyhon markov_model_1`
+`ptyhon markov_model_1.py`
 
 To run the markov model and baseline calculations for the numeric metrics run the following command:
 
-`python markov_model_2`
+`python markov_model_2.py`
