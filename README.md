@@ -12,7 +12,7 @@ The data is processed and the labels are created using the following command:
 `python get_covid_data.py`
 
 # Experiments
-The experiments are described in [this paper](https://github.com/JanaanL/Covid_19_Project/blob/main/Final_Project_Report.pdf "report").  To run the hidden markov models for the numeric metrics (change in daily case counts, change in active
+The experiments are described in [this paper](https://github.com/JanaanL/Covid_19_Project/blob/main/Final_Project_Report.pdf "report"). To run the hidden markov models for the numeric metrics (change in daily case counts, change in active
 case count, change in daily deaths) use the following command:
 
 `python hmm_1.py`
